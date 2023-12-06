@@ -19,5 +19,7 @@ export default defineConfig({
   build: {
     port: 80,
     strictPort: true,
-  },
+  }
 });
+
+
